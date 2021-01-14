@@ -1,0 +1,11 @@
+.menu1 {
+display: flex;
+ justify-content: center;
+    background-color:lightblue;
+}
+
+.item1 {
+border: solid yellow;
+margin:12px; 
+padding:8px;
+background-color:pink;}
